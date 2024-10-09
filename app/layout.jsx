@@ -10,8 +10,8 @@ import { Analytics } from "@vercel/analytics/react";
 export const metadata = {
 	title: "Alvalens | Portofolio",
 	description:
-		"My name is Alvalens, I'm a web developer and I'm passionate about it. I'm currently studying at Universitas Negeri Malang.",
-	author: "Alvalen Shafelbilyunazra",
+		"My name is Yasir, I'm a web developer and I'm passionate about it. I'm currently studying at Virtual University of Pakistan.",
+	author: " M Yasir",
 	siteUrl: "https://www.alvalens.my.id",
 	applicationName: "Alvalens",
 	keywords: [
